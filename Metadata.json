@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 4210,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-request-resolve-azure-automation-powershell-workflow-runbook/master/Hornbill_RequestResolve_Workflow.ps1",
+    "DownloadCount": 640,
+    "Id": "Hornbill-Request-Resolve-9a52ae6d",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 520,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Powershell Workflow Runbook to resolve a request within Service Manager on a Hornbill Instance",
+    "Title": "Hornbill Request Resolve - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-request-resolve-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
